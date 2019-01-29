@@ -1,0 +1,8 @@
+{
+  "name": "helloNode",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "formidable": "^1.2.1"
+  }
+}
